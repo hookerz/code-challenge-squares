@@ -18,6 +18,6 @@
 
 ## References
 
-| Reference | Link |
-| --- | --- |
-| GSAP | https://greensock.com/gsap/ |
+| Reference | Link                        |
+| --------- | --------------------------- |
+| GSAP      | https://greensock.com/gsap/ |

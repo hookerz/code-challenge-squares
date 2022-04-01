@@ -35,12 +35,6 @@ const base = {
       inject: 'body',
       scriptLoading: 'defer',
     }),
-    new CopyPlugin({
-      patterns: [{ from: 'public' }],
-      options: {
-        concurrency: 100,
-      },
-    }),
   ],
   resolve: {
     modules: ['node_modules', path.resolve(__dirname, 'src')],
